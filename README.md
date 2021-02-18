@@ -1,3 +1,2 @@
-# Python---Instacart
-Data Analysis of Instacart Data using Python
-Include Project Brief of Project, Describe What's in Folders, Information About Data Sets
+# Python---Instacart Grocery Basket Analysis
+Project Brief: Performed initial data and exploratory analysis of data to assist in targeted marketing strategies for different customers based on ordering habits, demographics, and geographic regions. Data contained information about customers, departments, orders, and products. Folders contain code for the following: data wrangling and subsetting, data consistency checks, combining and exporting data, deriving new variables, grouping and aggregating data, and data visualizations. 
